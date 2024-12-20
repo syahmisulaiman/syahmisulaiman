@@ -1,6 +1,8 @@
 # Hi there, I'm Syahmi 👋
 
-Welcome to my GitHub profile! With nearly 4 years of programming experience, I specialize in developing web applications utilizing cutting-edge technology stacks and frameworks such as React.js, Angular, TypeScript, Node.js, and Spring Boot. I'm passionate about building scalable, user-friendly applications and continuously learning new technologies.
+Welcome to my GitHub profile! 🚀 With close to 4 years of experience in software development, I thrive on creating dynamic, high-performance web applications using modern frameworks and technologies like **React.js**, **Angular**, **TypeScript**, **Node.js**, and **Spring Boot**. 
+
+I am passionate about developing scalable, user-friendly solutions that solve real-world problems and deliver exceptional user experiences. Always eager to explore and master new technologies, I enjoy collaborating on innovative projects and contributing to the tech community.
 
 ---
 
@@ -40,8 +42,8 @@ Welcome to my GitHub profile! With nearly 4 years of programming experience, I s
 ---
 
 ## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syahmi-sulaiman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syahmisulaiman)
 
 ---
 
-⚡ Fun Fact: I love running 5 km every week to recharge my creativity and energy! 🏃
+⚡ Fun Fact: I love running 10 km every week to recharge my creativity and energy! 🏃
