@@ -47,3 +47,5 @@ I am passionate about developing scalable, user-friendly solutions that solve re
 ---
 
 ⚡ Fun Fact: I love running 10 km every week to recharge my creativity and energy! 🏃
+
+![Profile Views](https://komarev.com/ghpvc/?username=syahmisulaiman&color=blue)
