@@ -2,7 +2,7 @@
   <h1>Hi!! Syahmi Sulaiman here 👋</h1>
 </div>
 
-Welcome to my GitHub profile! 🚀 With over 4 years of experience in software development, I thrive on creating dynamic, high-performance web applications using modern frameworks and technologies like **React.js**, **Angular**, **TypeScript**, **Node.js**, and **Spring Boot**. 
+Welcome to Syahmi's GitHub profile! 🚀 With over 4 years of experience in software development, I thrive on creating dynamic, high-performance web applications using modern frameworks and technologies like **React.js**, **Angular**, **TypeScript**, **Node.js**, and **Spring Boot**. 
 
 I am passionate about developing scalable, user-friendly solutions that solve real-world problems and deliver exceptional user experiences. Always eager to explore and master new technologies, I enjoy collaborating on innovative projects and contributing to the tech community.
 
