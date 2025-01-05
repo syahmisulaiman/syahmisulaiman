@@ -51,7 +51,7 @@ I'm actively looking for **exciting job opportunities** where I can contribute m
 
 ## 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syahmisulaiman)
-- ✉️ [Email](mailto:syahmidevz@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syahmidevz@gmail.com)
 
 ---
 
