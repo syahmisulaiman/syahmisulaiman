@@ -1,18 +1,24 @@
 <div align="center">
-  <h1>Hi!! Syahmi Sulaiman here 👋</h1>
+  <h1>Hi there! 👋 I'm Syahmi Sulaiman</h1>
 </div>
 
-Welcome to Syahmi's GitHub profile! 🚀 With over 4 years of experience in software development, I thrive on creating dynamic, high-performance web applications using modern frameworks and technologies like **React.js**, **Angular**, **TypeScript**, **Node.js**, and **Spring Boot**. 
+Welcome to my GitHub profile! 🚀 I’m a passionate software developer with over 4 years of experience in creating dynamic, high-performance web applications. I specialize in leveraging modern frameworks and technologies like **React.js**, **Angular**, **TypeScript**, **Node.js**, and **Spring Boot** to craft scalable and user-friendly solutions.
 
-I am passionate about developing scalable, user-friendly solutions that solve real-world problems and deliver exceptional user experiences. Always eager to explore and master new technologies, I enjoy collaborating on innovative projects and contributing to the tech community.
+Let’s build something amazing together! 🌟
 
 ---
 
-## 🚀 About Me:
-- 💻 Experienced in **Full-Stack Development** with a focus on **frontend frameworks** and **backend APIs**.
-- 🌱 I’m currently learning **Vue.js** and exploring **Cloud Technologies**.
-- 🤝 I’m looking to collaborate on **open-source projects** and **innovative web solutions**.
-- 💬 Ask me about **React.js**, **Angular**, **Node.js**, or **Spring Boot**!
+## 🚀 About Me
+- 💻 **Full-Stack Developer** with a strong focus on **frontend frameworks** and **backend APIs**.
+- 🌱 Currently diving into **Vue.js** and exploring **Cloud Technologies** to stay ahead in the tech world.
+- 🤝 Enthusiastic about collaborating on **open-source projects** and building **innovative web solutions**.
+- 💬 Feel free to reach out if you'd like to discuss **React.js**, **Angular**, **Node.js**, or **Spring Boot**.
+- 🌟 Open to **job opportunities** that align with my passion for solving real-world problems through technology.
+
+---
+
+## 💼 Open to Work
+I'm actively looking for **exciting job opportunities** where I can contribute my skills and grow as a developer. If you’re hiring or know of any opportunities, feel free to connect with me!
 
 ---
 
@@ -43,11 +49,12 @@ I am passionate about developing scalable, user-friendly solutions that solve re
 
 ---
 
-## 📫 Connect with Me:
+## 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syahmisulaiman)
+- ✉️ [Email](mailto:syahmidevz@gmail.com)  
 
 ---
 
-⚡ Fun Fact: I love running 10 km every week to recharge my creativity and energy! 🏃
+⚡ Fun Fact: I love running 15 km every week to recharge my creativity and energy! 🏃
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syahmisulaiman&color=blue)
