@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Syahmi Sulaiman</h1>
+  <h1 align="center">Syahmi's Developer Hub 🚀</h1>
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&lines=Hello,+I'm+Syahmi+Sulaiman!;A+Passionate+Software+Developer;Experienced+in+Modern+Web+Technologies)
 
 Welcome to my GitHub profile! 🚀 I’m a passionate software developer with over 4 years of experience in creating dynamic, high-performance web applications. I specialize in leveraging modern frameworks and technologies like **React.js**, **Angular**, **TypeScript**, **Node.js**, and **Spring Boot** to craft scalable and user-friendly solutions.
 
