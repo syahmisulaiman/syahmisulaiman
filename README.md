@@ -21,7 +21,7 @@ Let’s build something amazing together! 🌟
 ---
 
 ## 💼 Open to Work
-I'm actively looking for **exciting job opportunities** where I can contribute my skills and grow as a developer. If you’re hiring or know of any opportunities, feel free to connect with me!
+I'm actively looking for **exciting job opportunities** where I can contribute my skills and grow as a developer. If you’re hiring or know of any opportunities, feel free to connect with me! 
 
 ---
 
