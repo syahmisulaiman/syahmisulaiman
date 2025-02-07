@@ -46,7 +46,7 @@ I'm actively looking for **exciting job opportunities** where I can contribute m
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats: 
 ![Syahmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syahmisulaiman&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syahmisulaiman&layout=compact&theme=radical)
 
