@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">💻 Syahmi's Developer Hub 🚀</h1>
+  <h1 align="center">💻 Syahmi's Developer Hub  🚀</h1>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&lines=Hello,+I'm+Syahmi+Sulaiman!;A+Passionate+Software+Developer;Experienced+in+Modern+Web+Technologies" alt="Typing SVG">
