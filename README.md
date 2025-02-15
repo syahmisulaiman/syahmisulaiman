@@ -44,7 +44,7 @@ I'm actively looking for **exciting job opportunities** where I can contribute m
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
+--- 
 
 ## 📊 GitHub Stats: 
 ![Syahmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syahmisulaiman&show_icons=true&theme=radical)
