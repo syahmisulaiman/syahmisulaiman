@@ -58,6 +58,6 @@ I'm actively looking for **exciting job opportunities** where I can contribute m
 
 ---
 
-⚡ Fun Fact: I'm a full marathoner, passionate about conquering 42 km races, and a badminton lover!! Whether hitting the courts or the trails, I find joy in staying active, which fuels my creativity and energy. 🏃‍♂️🏸  
+⚡ Fun Fact: I'm a full marathoner, passionate about conquering 42 km races, and a badminton lover!! Whether hitting the courts or the trails, I find joy in staying active, which fuels my creativity and energy. 🏃‍♂️🏸
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syahmisulaiman&color=blue) 
