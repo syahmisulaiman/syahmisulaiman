@@ -13,7 +13,7 @@ Let’s build something amazing together!🌟
 
 ## 🚀 About Me
 - 💻 **Full Stack Developer** with a strong focus on **frontend frameworks** and **backend APIs**.  
-- 🌱 Currently diving into **Vue.js** and exploring **Cloud Technologies** to stay ahead in the tech world.
+- 🌱 Currently diving into **Vue.js**, **React Native** and exploring **Cloud Technologies** to stay ahead in the tech world.
 - 🤝 Enthusiastic about collaborating on **open-source projects** and building **innovative web solutions**.
 - 💬 Feel free to reach out if you'd like to discuss **React.js**, **Angular**, **Node.js**, or **Spring Boot**.
 - 🌟 Open to **job opportunities** that align with my passion for solving real-world problems through technology.
