@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&lines=Hello,+I'm+Syahmi+Sulaiman!;A+Passionate+Software+Developer;Experienced+in+Modern+Web+Technologies" alt="Typing SVG">
-</div>  
+</div>    
 
 Welcome to my GitHub profile! 🚀 Over 4 years of experience in creating dynamic, high-performance web applications. I specialize in leveraging modern frameworks and technologies like **React.js**, **Angular**, **TypeScript**, **Node.js**, and **Spring Boot** to craft scalable and user-friendly solutions.
 
